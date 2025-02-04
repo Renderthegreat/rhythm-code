@@ -1,0 +1,52 @@
+{
+    "name": "Rhythm Code",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "Extra Effects": "github:alexszeto/extra-effects#v3.1.0",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.58",
+        "tag": "v1.12.58",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/584edd3155f56d4d2465bddaa067b5e48a37c430",
+        "target": "1.12.58",
+        "pxt": "8.5.69",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#E5CCBD",
+        "#8F3641",
+        "#BE7A80",
+        "#B9684F",
+        "#D2A865",
+        "#518183",
+        "#75A165",
+        "#575777",
+        "#85A7B6",
+        "#854865",
+        "#B18979",
+        "#4D3956",
+        "#D2B2A0",
+        "#6C4242",
+        "#3E2A2E"
+    ]
+}
